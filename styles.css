@@ -92,7 +92,7 @@ a {
   color: var(--text);
 }
 
-.site-nav .developer-note-link {
+.site-nav a[href="https://maple-lab-jp.github.io/"] {
   margin-top: 10px;
   padding-top: 16px;
   border-top: 1px solid var(--line);
